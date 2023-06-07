@@ -45,6 +45,7 @@ packages
 TestResults
 bin
 obj
+obj/*
 Temp
 Platform/Install/packages
 Platform/Web/
